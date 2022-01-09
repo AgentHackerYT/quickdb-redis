@@ -1,14 +1,14 @@
-# Quick.redis
+# QuickDB Redis
 - A Simple Module To Use Redis Database
 # Functions 
 - Create A Redis Client
 ```js
-const { RedisClient } = require("quick.redis")
+const { RedisClient } = require("quickdb-redis")
 
 const db = new RedisClient({
-    url: "IF You Have URL";
-    username: "IF YOU HAVE username and Password";
-    password: "IF YOU HAVE username and Password";
+    url: "IF You Have URL",
+    username: "IF YOU HAVE username and Password",
+    password: "IF YOU HAVE username and Password",
 }) 
 // URL or USERNAME AND PASSWORD
 ```
