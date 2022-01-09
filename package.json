@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "redis": "^4.0.1"
+  },
+  "name": "quickdb-redis",
+  "description": "Redis Database made Simpler",
+  "version": "3.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentHackerYT/quickdb-redis.git"
+  },
+  "keywords": [
+    "quick",
+    "database",
+    "quick.db",
+    "easy-database",
+    "redis",
+    "easy-redis"
+  ],
+  "author": "jenil-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgentHackerYT/quickdb-redis/issues"
+  },
+  "homepage": "https://github.com/AgentHackerYT/quickdb-redis#readme"
+}
